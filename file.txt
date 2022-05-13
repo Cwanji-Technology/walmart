@@ -1,2 +1,3 @@
 new file script written in ruby for k8s.
 was maded in dev branch.
+hello new devops learners.
